@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/09-程序框架设计.md",
+                "file": "设计修正.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-程序框架设计"
+              "title": "设计修正"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/09-程序框架设计.md",
+                "file": "设计修正.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09-程序框架设计 的大纲"
+              "title": "设计修正 的大纲"
             }
           },
           {
@@ -194,32 +194,34 @@
   },
   "active": "3ac83ff5f7fbf31c",
   "lastOpenFiles": [
-    "design/09-程序框架设计.md.tmp.57776.3e269073a741",
-    "design/09-程序框架设计.md.tmp.57776.b782f7bb6bde",
-    "design/09-程序框架设计.md.tmp.57776.9f15df678d5d",
-    "design/09-程序框架设计.md.tmp.57776.9b67d8a37b1c",
-    "design/09-程序框架设计.md.tmp.57776.0a2512b9b771",
-    "design/09-程序框架设计.md.tmp.57776.4c56c9050fa6",
-    "design/09-程序框架设计.md.tmp.57776.ca44970e2286",
-    "design/09-程序框架设计.md.tmp.57776.e3677f949925",
-    "design/09-程序框架设计.md.tmp.57776.892df52728e3",
-    "design/09-程序框架设计.md.tmp.57776.9366cc8325ea",
-    "design/index.md.tmp.57776.bd83095a3b21",
-    "design/05-制作与资源经济.md",
-    "design/06-战斗与威胁.md",
-    "design/09-程序框架设计.md",
-    "design/08-叙事与世界观.md",
-    "design/10-开发计划.md",
+    "design/index.md.tmp.57776.caa6eb3dcf1b",
+    "design/index.md.tmp.57776.0b2ac7e4e6bf",
+    "design/06-战斗与威胁.md.tmp.57776.758750eadf94",
+    "design/02-生存系统.md.tmp.57776.1c654b6a8b05",
+    "design/09-程序框架设计.md.tmp.57776.1e4f141d8565",
+    "design/09-程序框架设计.md.tmp.57776.a076aed3ec6d",
+    "design/09-程序框架设计.md.tmp.57776.46dd6c6667f5",
     "design/04-基地与飞船建造.md",
-    "design/03-探索与星图.md",
+    "design/09-程序框架设计.md.tmp.57776.6996668225f4",
+    "design/09-程序框架设计.md.tmp.57776.5fd66b6004d1",
+    "design/04-基地与飞船建造.md.tmp.57776.a651a9ec276c",
+    "design/index.md.tmp.57776.e1b689cb2214",
+    "design/09-程序框架设计.md",
+    "设计修正.md",
     "design/02-生存系统.md",
     "design/01-核心玩法循环.md",
+    "design/10-开发计划.md",
+    "design/11-按键控制与UI功能.md",
+    "design/05-制作与资源经济.md",
+    "design/07-进度与科技树.md",
+    "design/03-探索与星图.md",
+    "design/08-叙事与世界观.md",
+    "design/06-战斗与威胁.md",
     "design/index.md",
     "design/appendices/C-参考游戏.md",
     "design/appendices/B-物品数据库.md",
     "design/appendices/A-经济平衡表.md",
     "design/04-base-building.md",
-    "design/07-进度与科技树.md",
     "design/06-combat-threats.md",
     "design/05-crafting-resources.md",
     "design/01-core-loop.md",
@@ -227,8 +229,6 @@
     "design/08-narrative-lore.md",
     "design/03-exploration.md",
     "design/02-survival-systems.md",
-    "design/appendices/C-inspirations.md",
-    "design/appendices/B-item-database.md",
-    "design/appendices/A-economy-tables.md"
+    "design/appendices/C-inspirations.md"
   ]
 }
