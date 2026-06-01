@@ -11,10 +11,14 @@
             "id": "4326ec5c3d6bcbcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "design/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -188,5 +192,38 @@
     }
   },
   "active": "4326ec5c3d6bcbcc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "design/07-进度与科技树.md.tmp.57776.c63fc3e61002",
+    "design/05-制作与资源经济.md.tmp.57776.1a1372077601",
+    "design/index.md.tmp.57776.93eccd0772c7",
+    "design/index.md.tmp.57776.0bad10c310e9",
+    "design/appendices/C-参考游戏.md",
+    "design/appendices/B-物品数据库.md",
+    "design/appendices/A-经济平衡表.md",
+    "design/04-base-building.md",
+    "design/08-叙事与世界观.md",
+    "design/07-进度与科技树.md",
+    "design/06-战斗与威胁.md",
+    "design/05-制作与资源经济.md",
+    "design/04-基地与飞船建造.md",
+    "design/03-探索与星图.md",
+    "design/02-生存系统.md",
+    "design/01-核心玩法循环.md",
+    "design/appendices/C-inspirations.md.tmp.57776.b830a24fb77d",
+    "design/05-crafting-resources.md.tmp.57776.72da8d2fce96",
+    "design/07-progression.md.tmp.57776.013b6d1b2715",
+    "design/index.md.tmp.57776.73f426ccf9ba",
+    "design/04-base-building.md.tmp.57776.2e496e877ec3",
+    "design/06-combat-threats.md",
+    "design/05-crafting-resources.md",
+    "design/01-core-loop.md",
+    "design/07-progression.md",
+    "design/08-narrative-lore.md",
+    "design/03-exploration.md",
+    "design/02-survival-systems.md",
+    "design/appendices/C-inspirations.md",
+    "design/appendices/B-item-database.md",
+    "design/appendices/A-economy-tables.md",
+    "design/index.md"
+  ]
 }
